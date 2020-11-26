@@ -1,4 +1,3 @@
 # music_project
 
-check chrome version
-download the chrome driver and rename chromedriver
+repo with useful tools for scrape YT playlist and download audio
